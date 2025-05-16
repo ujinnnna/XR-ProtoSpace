@@ -1,2 +1,2 @@
 # XR-ProtoSpace
-Immersive AR/VR/MR applications built with Unity and XR Interaction Toolkit.
+AR/VR applications built with Unity, Meta XR, and OpenXR, exploring various XR interaction features.
