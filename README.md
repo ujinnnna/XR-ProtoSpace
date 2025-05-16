@@ -48,7 +48,7 @@ Meta Building Blocks를 사용해 VR 환경 안에 현실 공간을 보여주는
 ---
 
 ### 🪟 **MR Window (Stencil Mask)**  
-<img src="./gif/MRPassthroughWindow" width="320"/>  
+<img src="./gif/MRPassthroughWindow.gif" width="320"/>  
 
 **Stencil Mask 기반 MR 창 구현**  
 
