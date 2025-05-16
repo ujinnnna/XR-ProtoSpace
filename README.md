@@ -65,5 +65,5 @@ Stencil Mask 기반의 적 생성 시각화와 컨트롤러 기반 슈팅 조작
 ## 📩 Contact
 
 - 개발자: 나우진
-- Email: uujin314@naver.com
+- Email: uujin314@icloud.com
 
