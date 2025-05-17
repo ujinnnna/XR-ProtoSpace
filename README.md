@@ -15,6 +15,8 @@ Meta XR 및 OpenXR 기반 환경에서 다양한 **Mixed Reality (MR)** 및 **Vi
 Passthrough 환경에서 공간 내 오브젝트 간 거리를 측정할 수 있는 인터랙션을 구현했습니다.  
 > 예: 현실 공간 내 길이 측정 도구
 
+👉 [시연 영상 전체 보기 (YouTube)](https://youtu.be/iPSBVb6zUtc)
+
 ---
 
 ### 🌐 **MR Effect Mesh**  
